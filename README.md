@@ -1,5 +1,7 @@
 # Rock Salt
 
+[![Try with Replit Badge](https://replit.com/badge?caption=Try%20with%20Replit)](https://replit.com/@replit-community-dev/rock-salt)
+
 Rock solid password hashing library
 
 -   Built with Typescript
