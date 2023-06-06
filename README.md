@@ -3,8 +3,8 @@
 Rock solid password hashing library
 
 -   Built with Typescript
--   Only native dependencies (crypto)
 -   Extremely light weight
+-   Only native dependencies (crypto)
 
 ## Installation
 
