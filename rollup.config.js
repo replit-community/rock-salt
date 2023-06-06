@@ -6,7 +6,7 @@ export default defineConfig({
     input: "./src/index.ts",
     output: {
         dir: "dist",
-        format: "cjs",
+        format: "esm",
     },
     plugins: [typescript(), terser()],
 });
