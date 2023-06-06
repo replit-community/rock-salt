@@ -1,5 +1,5 @@
 {
-    "name": "rock-salt",
+    "name": "@replit-community/rock-salt",
     "version": "1.0.0",
     "description": "Rock solid password hashing library",
     "main": "./dist/index.js",
@@ -22,5 +22,13 @@
     },
     "dependencies": {
         "@rollup/plugin-typescript": "^11.1.1"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/replit-community/rock-salt.git"
+    },
+    "bugs": {
+        "url": "https://github.com/replit-community/rock-salt/issues"
+    },
+    "homepage": "https://github.com/replit-community/rock-salt#readme"
 }
